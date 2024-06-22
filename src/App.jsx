@@ -7,17 +7,17 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={reactLogo} className="App-logo" alt="React logo" />
-        <img src={viteLogo} className="App-logo" alt="Vite logo" />
-        <h1>Welcome to React with Vite</h1>
+        <h1>Welcome to ReactAja</h1>
       </header>
       <main>
-        <h2>Getting Started</h2>
-        <p>This is a simple React application setup with Vite.</p>
-        <button className="primary-button">Get Started</button>
+        <h2>Mulai bikin porjek kamu</h2>
+        <p>
+          Kamu bisa bikin projek ini dengan sangat gampang dan mudah bangett.
+        </p>
+        <button className="primary-button">Mulaii Bosss</button>
       </main>
       <footer>
-        <p>© 2024 Your Company. All rights reserved.</p>
+        <p>© 2024 ReactAja. </p>
       </footer>
     </div>
   );
